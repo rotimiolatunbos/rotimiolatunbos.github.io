@@ -60,7 +60,7 @@ a.resume {
 }
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
 	#intro {
 		padding-bottom: 60px;
 		margin-top: 12px;
@@ -127,7 +127,11 @@ a.resume {
 	font-weight: lighter;
 }
 
-@media screen and (max-width: 700px) {
+#about p:nth-child(n+1) {
+	margin-bottom: 9px;
+}
+
+@media screen and (max-width: 768px) {
 	#about p {
 		font-size: .8em;
 	}
@@ -154,13 +158,19 @@ a.resume {
 
 .project .image {
 	width: inherit;
-	height: 200px;
+	/*height: 200px;*/
 }
 
 .project .details {
 	width: inherit;
 	box-sizing: border-box;
 	padding: 10px;
+}
+
+.project .tech-used {
+	opacity: .5;
+	font-style: italic;
+	margin-top: 3px;
 }
 
 .project .github {
@@ -178,13 +188,13 @@ a.resume {
 	float: right;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
 	.project {
 		width: 100%;
 	}
 
 	.project .image {
-		height: 150px;
+		/*height: 150px;*/
 	}
 
 	.project .details h3 {
@@ -244,7 +254,7 @@ a.resume {
 	cursor: pointer;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
 	.title {
 		font-size: 1.3em;
 	}

@@ -1,0 +1,33 @@
+body {
+	color: rgba(0, 0, 0, 1);
+}
+
+#about {
+	background-color: rgba(0, 0, 0, .02);
+}
+
+.project .image {
+	background-color: rgba(0, 0, 0, .12);
+}
+
+.project .details {
+	border: 1px solid rgba(0, 0, 0, .1);
+	border-top-color: transparent;
+}
+
+.project .details h3 {
+	color: rgba(0, 0, 0, .5);
+}
+
+#contact {
+	background-color: rgba(0, 0, 0, .02);
+}
+
+.title {
+	color: rgba(0, 0, 0, .5);
+}
+
+.theme-switch {
+	background-image: url('./asset/dark.svg');
+	background-color: rgba(0, 0, 0, .07);
+}
