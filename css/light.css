@@ -27,6 +27,6 @@ body {
 }
 
 .theme-switch {
-	background-image: url('../../asset/dark.svg');
+	background-image: url('asset/dark.svg');
 	background-color: rgba(0, 0, 0, .07);
 }

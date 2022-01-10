@@ -1,5 +1,5 @@
 window.onload = function () {
-	const link = document.querySelector('link');
+	const link = document.querySelectorAll('link')[1];
 	const themeSwitch = document.querySelector('.theme-switch');
 
 	themeSwitch.onclick = function () {
