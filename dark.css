@@ -28,6 +28,6 @@ body {
 }
 
 .theme-switch {
-	background-image: url('../asset/light.svg');
+	background-image: url('./asset/light.svg');
 	background-color: rgba(255, 255, 255, .07);
 }
