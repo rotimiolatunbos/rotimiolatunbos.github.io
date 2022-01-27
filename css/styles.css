@@ -34,8 +34,9 @@ h1, h2, h3, h4, h5, h6, p {
 	font-size: 2.5em;
 }
 
-#intro em {
+#intro strong {
 	color: #8a2be2;
+	font-weight: 700;
 }
 
 #intro .sub {
@@ -207,10 +208,6 @@ a.resume {
 @media screen and (max-width: 768px) {
 	.project {
 		width: 100%;
-	}
-
-	.project .image {
-		/*height: 150px;*/
 	}
 
 	.project .details h3 {
