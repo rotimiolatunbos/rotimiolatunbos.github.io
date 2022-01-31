@@ -16,8 +16,8 @@ body {
 	background-color: rgba(0, 0, 0, .12);
 }
 
-.project .details {
-	border: 1px solid rgba(0, 0, 0, .1);
+.project {
+	border: 1px solid rgba(0, 0, 0, .5);
 }
 
 .project .details h3 {
