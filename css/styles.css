@@ -74,26 +74,26 @@ a.resume {
 		padding-bottom: 40px;
 	}
 
-	#intro h2 {
-		font-size: 1.2em;
+	/*#intro h2 {
+		font-size: 1.8em;
 		text-align: center;
 	}
 
 	#intro h1 {
 		text-align: center;
-	}
+	}*/
 
 	#intro h2:nth-of-type(2) {
 		margin: 0 0 15px;
 	}
 
-	#intro h2:nth-of-type(1) {
+	/*#intro h2:nth-of-type(1) {
 		font-weight: lighter;
-	}
+	}*/
 
-	#intro h1 {
-		font-size: 2em;
-	}
+	/*#intro h1 {
+		font-size: 2.5em;
+	}*/
 
 	#intro .sub {
 		display: block;
@@ -103,13 +103,14 @@ a.resume {
 		float: none;
 		display: block;
 		border: none;
-		border-bottom: 1px dotted #8a2be2;
-		font-size: inherit;
+		/*border-bottom: 1px dotted #8a2be2;*/
+		text-decoration: underline;
+		text-underline-offset: 3px;
+		font-size: 1.2em;
 		font-style: italic;
-		padding: 0;
+		padding: 4px 0 8px;
 		font-weight: lighter;
-		margin: 0 auto;
-		width: 150px;
+		margin: 4px auto 0;
 		text-align: center;
 	}
 
@@ -120,11 +121,11 @@ a.resume {
 		justify-content: space-between;
 	}
 
-	.socials a svg {
+	/*.socials a svg {
 		width: 20px;
 		height: 20px;
 		margin: 0 0 9px 0;
-	}
+	}*/
 }
 
 /* about sections styles */
@@ -149,9 +150,9 @@ a.resume {
 }
 
 @media screen and (max-width: 768px) {
-	#about p {
+	/*#about p {
 		font-size: .8em;
-	}
+	}*/
 }
 
 /* project section styles */
@@ -182,12 +183,15 @@ a.resume {
 	width: inherit;
 	box-sizing: border-box;
 	padding: 10px;
+	font-size: 1.05em;
+	flex: 1;
 }
 
 .project .tech-used {
-	opacity: .5;
+	opacity: .75;
 	font-style: italic;
 	margin-top: 3px;
+	/*font-weight: lighter;*/
 }
 
 .project .github {
@@ -211,7 +215,7 @@ a.resume {
 	}
 
 	.project .details h3 {
-		font-size: 1.15em;
+		/*font-size: 1.15em;*/
 		text-align: center;
 		margin-bottom: 7px;
 	}
@@ -219,7 +223,7 @@ a.resume {
 	.project .details p {
 		font-weight: lighter;
 		text-align: center;
-		font-size: .8em;
+		/*font-size: .8em;*/
 	}
 }
 
@@ -273,9 +277,9 @@ a.resume {
 }
 
 @media screen and (max-width: 768px) {
-	.title {
+	/*.title {
 		font-size: 1.3em;
-	}
+	}*/
 
 	.theme-switch {
 		position: static;
