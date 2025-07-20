@@ -1,5 +1,5 @@
 ---
-title: Web Development on Android with Hugo
+title: Building a website with Hugo on Android
 date: 2025-07-20
 summary: How to go about building static websites with Hugo on Android
 tags: ["android", "hugo", "web development", "emacs", "termux"]
