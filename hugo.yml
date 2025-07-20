@@ -23,7 +23,7 @@ params:
     Content: >
      -  And you're welcome to my blog!
 
-     -  I write about books, programming, and my side projects
+     -  I write about books, tech, programming, and my side projects
 
 caches:
   images:
