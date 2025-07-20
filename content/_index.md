@@ -1,2 +1,4 @@
-# Welcome
-I write about books, tech and my side projects.
+---
+title: Home
+description: This is the home page
+---

@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rotimi O.</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Rotimi O.</description>
+    <title>Home on Rotimi Olatunbosun</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Rotimi Olatunbosun</description>
     <generator>Hugo -- 0.147.9</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development on Android with Hugo</title>
+      <link>//localhost:1313/posts/web-development-on-android-with-hugo/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/web-development-on-android-with-hugo/</guid>
+      <description>How to go about building static websites with Hugo on Android</description>
+    </item>
+    <item>
+      <title>Writing Better and Getting Paid</title>
+      <link>//localhost:1313/posts/writing-better-and-getting-paid/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/writing-better-and-getting-paid/</guid>
+      <description>My musings on improving my writing skills and freelancing writing</description>
+    </item>
+    <item>
+      <title>Integrating AI and Blockchain — What you should know</title>
+      <link>//localhost:1313/posts/integrating-ai-and-blockchain/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/integrating-ai-and-blockchain/</guid>
+      <description>Learn how AI and blockchain technologies can work together</description>
+    </item>
+    <item>
+      <title>Blockchain 101 -  An Intro to the Foundation of Web3</title>
+      <link>//localhost:1313/posts/blockchain-101-intro-to-foundation-of-web3/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/blockchain-101-intro-to-foundation-of-web3/</guid>
+      <description>This articles introduces everyday people to the concept of blockchains</description>
+    </item>
   </channel>
 </rss>

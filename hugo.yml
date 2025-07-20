@@ -1,1 +1,27 @@
-theme: ["PaperMod"]
+baseURL: ""
+title: Rotimi Olatunbosun
+theme: PaperMod
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Tags
+      url: tags/
+      weight: 10
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  label:
+    text: ???
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello, I'm Rotimi..."
+    Content: >
+     -  And you're welcome to my blog!
+
+     -  I write about books, programming, and my side projects
+
