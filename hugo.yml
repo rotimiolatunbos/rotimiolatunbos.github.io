@@ -25,3 +25,6 @@ params:
 
      -  I write about books, programming, and my side projects
 
+caches:
+  images:
+    dir: :cacheDir/images
