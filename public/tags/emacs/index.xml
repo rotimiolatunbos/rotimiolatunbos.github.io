@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Emacs on Rotimi Olatunbosun</title>
-    <link>//localhost:1313/tags/emacs/</link>
+    <link>//localhost:40725/tags/emacs/</link>
     <description>Recent content in Emacs on Rotimi Olatunbosun</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:40725/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a website with Hugo on Android</title>
-      <link>//localhost:1313/posts/building-a-website-with-hugo-on-android/</link>
+      <link>//localhost:40725/posts/building-a-website-with-hugo-on-android/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/building-a-website-with-hugo-on-android/</guid>
+      <guid>//localhost:40725/posts/building-a-website-with-hugo-on-android/</guid>
       <description>How to go about building static websites with Hugo on Android</description>
     </item>
   </channel>

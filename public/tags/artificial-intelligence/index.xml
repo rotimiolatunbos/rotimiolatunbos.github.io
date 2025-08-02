@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artificial Intelligence on Rotimi Olatunbosun</title>
-    <link>//localhost:1313/tags/artificial-intelligence/</link>
+    <link>//localhost:40725/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on Rotimi Olatunbosun</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:40725/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Integrating AI and Blockchain — What you should know</title>
-      <link>//localhost:1313/posts/integrating-ai-and-blockchain/</link>
+      <link>//localhost:40725/posts/integrating-ai-and-blockchain/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/integrating-ai-and-blockchain/</guid>
+      <guid>//localhost:40725/posts/integrating-ai-and-blockchain/</guid>
       <description>Learn how AI and blockchain technologies can work together</description>
     </item>
   </channel>

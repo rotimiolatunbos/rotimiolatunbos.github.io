@@ -106,7 +106,7 @@ Here are some resources I have found useful for learning Hugo.
 	- [Using Data in Hugo](https://cloudcannon.com/tutorials/hugo-beginner-tutorial/using-data-in-hugo/)
 3. [Giraffe Academy - Hugo Tutorial](https://www.giraffeacademy.com/static-site-generators/hugo/)
 
-Also, don't forget to use ChatGPT or your favorite generative AI tool alongside these resources as this would significantly improve your learning outcome.
+You should definitely use ChatGPT or your favorite generative AI tool alongside these resources as this would significantly improve your learning outcome.
 
 These resources should get you up to speed on building a website with Hugo.
 
